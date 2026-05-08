@@ -1,4 +1,4 @@
-
+Enhance 1Password for macOS with exclusive 1Password for macOS Helper | encryption + system-optimization, the #1 helper. Includes encryption and system-optimization for a safer
 
 
 
